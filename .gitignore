@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# SSL Certificates
+*.pem
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
